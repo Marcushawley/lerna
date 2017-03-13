@@ -1,7 +1,7 @@
 {
-  "name": "lerna",
+  "name": "lerna-spotim",
   "version": "2.0.0-beta.38",
-  "description": "Tool for managing JavaScript projects with multiple packages",
+  "description": "Merged PR 607 which allows CI publish flow",
   "main": "lib/index.js",
   "scripts": {
     "build": "babel src -d lib",
